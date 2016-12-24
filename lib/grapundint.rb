@@ -1,5 +1,5 @@
 require "grapundint/version"
+require 'grapundint/helpers'
 
 module Grapundint
-  # Your code goes here...
 end
